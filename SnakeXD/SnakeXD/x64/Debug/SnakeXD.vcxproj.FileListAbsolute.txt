@@ -1,0 +1,20 @@
+C:\Users\HP\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.GameMainMenu.resources
+C:\Users\HP\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.vcxproj.GenerateResource.cache
+C:\Users\HP\source\repos\SnakeXD\x64\Debug\GameMainMenu.h
+C:\Users\HP\source\repos\SnakeXD\x64\Debug\SimpleMapForm.h
+C:\Users\HP\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.SimpleMapForm.resources
+C:\Users\HP\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.SettingsForm.resources
+C:\Users\HP\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.PauseMenu.resources
+C:\Users\HP\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.SelectCharacter.resources
+D:\Visual Studio\source\repos\SnakeXD\x64\Debug\SimpleMapForm.h
+D:\Visual Studio\source\repos\SnakeXD\x64\Debug\GameMainMenu.h
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.vcxproj.AssemblyReference.cache
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.vcxproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.PauseMenu.resources
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.SelectCharacter.resources
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.SettingsForm.resources
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.SimpleMapForm.resources
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.GameMainMenu.resources
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\x64\Debug\SnakeXD.vcxproj.GenerateResource.cache

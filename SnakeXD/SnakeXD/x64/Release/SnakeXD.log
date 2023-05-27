@@ -1,0 +1,16 @@
+﻿  SelectMap.cpp
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\SimpleMapForm.h(356,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SelectCharacter.cpp
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\SimpleMapForm.h(356,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PauseMenu.cpp
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\SimpleMapForm.h(356,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SettingsForm.cpp
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\SimpleMapForm.h(356,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SimpleMapForm.cpp
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\SimpleMapForm.h(356,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GameMainMenu.cpp
+D:\Visual Studio\source\repos\SnakeXD\SnakeXD\SimpleMapForm.h(356,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  SelectMap.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SnakeXD.vcxproj -> D:\Visual Studio\source\repos\SnakeXD\x64\Release\SnakeXD.exe
